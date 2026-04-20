@@ -20,7 +20,7 @@ Genetic-programming style brainstorming command for [pi](https://github.com/mari
 pi install npm:pi-evolve
 
 # from git
-pi install git:github.com/<user>/pi-evolve
+pi install git:github.com/dunyakirkali/pi-evolve
 
 # local, for development
 pi install /Users/dunya.kirkali/Projects/pi-evolve
@@ -31,3 +31,8 @@ Then in pi, run `/evolve <seed>`.
 ## Requires
 
 An active model with an API key. Set one via `/model` before running `/evolve`.
+
+## Support
+
+- Source: https://github.com/dunyakirkali/pi-evolve
+- Issues / bugs: https://github.com/dunyakirkali/pi-evolve/issues

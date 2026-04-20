@@ -5,6 +5,14 @@
   "keywords": ["pi-package", "pi-extension", "brainstorm", "evolve"],
   "license": "MIT",
   "author": "Dunya Kirkali",
+  "homepage": "https://github.com/dunyakirkali/pi-evolve#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunyakirkali/pi-evolve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dunyakirkali/pi-evolve/issues"
+  },
   "type": "module",
   "pi": {
     "extensions": ["./src/index.ts"]
