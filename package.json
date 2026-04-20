@@ -1,0 +1,20 @@
+{
+  "name": "pi-evolve",
+  "version": "0.1.0",
+  "description": "Genetic-programming style brainstorming command for pi. /evolve generates 5 alternatives, you pick one, repeat until you finalize.",
+  "keywords": ["pi-package", "pi-extension", "brainstorm", "evolve"],
+  "license": "MIT",
+  "author": "Dunya Kirkali",
+  "type": "module",
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-ai": "*",
+    "@mariozechner/pi-coding-agent": "*"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ]
+}
